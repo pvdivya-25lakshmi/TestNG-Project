@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-18T15:26:45 IST" name="Suite" finished-at="2025-11-18T15:26:45 IST" duration-ms="78">
+    <groups>
+    </groups>
+    <test started-at="2025-11-18T15:26:45 IST" name="Test" finished-at="2025-11-18T15:26:45 IST" duration-ms="78">
+      <class name="com.flipkart.TvPurchase">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="browserLaunch" finished-at="2025-11-18T15:26:45 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="startTime" finished-at="2025-11-18T15:26:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="admissionForm()[pri:1, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="admissionForm" finished-at="2025-11-18T15:26:45 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admissionForm -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="endTime" finished-at="2025-11-18T15:26:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="startTime" finished-at="2025-11-18T15:26:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method signature="className()[pri:4, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="className" finished-at="2025-11-18T15:26:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- className -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="endTime" finished-at="2025-11-18T15:26:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method signature="className()[pri:4, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="className" finished-at="2025-11-18T15:26:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- className -->
+        <test-method is-config="true" signature="startTime()[pri:0, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="startTime" finished-at="2025-11-18T15:26:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method is-config="true" signature="endTime()[pri:0, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="endTime" finished-at="2025-11-18T15:26:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:com.flipkart.TvPurchase@2af004b]" started-at="2025-11-18T15:26:45 IST" name="browserQuit" finished-at="2025-11-18T15:26:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- com.flipkart.TvPurchase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
